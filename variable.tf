@@ -14,7 +14,7 @@ variable "ec2_ami" {
 }
 
 variable "key_name" {
-  default = "firstkey"
+  default = "XXXXXXXXXXXX"
 }
 
 variable "tags" {
